@@ -1,13 +1,12 @@
 # Project 3 - *Twitter app*
 
-**Name of your app** is a basic twitter app to read your tweets.
+**Twitter_app** is a basic twitter app to read your tweets.
 
-Time spent: 2 hours spent in total
 # Twitter - Part II
 
 This is a basic twitter app to view, compose, favorite, and retweet tweets.
 
-Time spent: **6** hours spent in total
+Time spent: **8** hours spent in total
 
 ## User Stories
 
@@ -27,7 +26,7 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://g.recordit.co/qnZGOqJ3dj.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 ## User Stories
 
 The following functionality is completed:
